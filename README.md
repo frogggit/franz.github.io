@@ -1,2 +1,2 @@
 # frogggit.github.io
-dev portfolio :D
+a site for myself? ok
